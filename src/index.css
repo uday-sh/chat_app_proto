@@ -1,0 +1,48 @@
+:root {
+  font-family: "Aptos", "Trebuchet MS", "Segoe UI", sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  color-scheme: dark;
+  color: #edf4fb;
+  background: #08111b;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  --text-main: #edf4fb;
+  --text-muted: #a7b7ca;
+  --text-subtle: #7e90a7;
+  --accent-soft: #8ed2ff;
+  --border-soft: rgba(150, 170, 194, 0.12);
+  --border-strong: rgba(150, 170, 194, 0.16);
+  --shadow-soft: 0 24px 80px rgba(0, 0, 0, 0.35);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  min-height: 100%;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+  background:
+    radial-gradient(circle at 14% 18%, rgba(33, 118, 191, 0.18), transparent 24%),
+    radial-gradient(circle at 82% 84%, rgba(35, 165, 120, 0.14), transparent 28%),
+    linear-gradient(180deg, #08111b 0%, #071019 52%, #050b13 100%);
+}
+
+button,
+input,
+textarea {
+  font: inherit;
+}
+
+a {
+  color: inherit;
+}
