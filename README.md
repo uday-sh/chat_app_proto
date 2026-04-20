@@ -27,7 +27,7 @@ Built with performance, scalability, and clean UI principles.
 
 ### 💬 Chat Interface (Sender & Receiver)
 
-```
+
 <img width="1448" height="847" alt="Screenshot 2026-04-20 150630" src="https://github.com/user-attachments/assets/2df6c811-3cfe-4350-8764-97b0cf51ed6a" />
 <img width="866" height="461" alt="Screenshot 2026-04-20 150624" src="https://github.com/user-attachments/assets/4fbe9dc2-98e5-43c3-a44f-5c356e82d421" />
 ---
@@ -73,12 +73,12 @@ Built with performance, scalability, and clean UI principles.
 
 ## 📦 Installation
 
-```bash id="install123"
+bash id="install123"
 git clone https://github.com/your-username/your-repo.git
 cd your-repo
 npm install
 npm start
-```
+
 
 ---
 
